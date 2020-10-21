@@ -47,7 +47,7 @@ class Im3xWidget {
 
         var deviceTxt = w.addText(model + "," + deviceName + "," + sysTemName)
         deviceTxt.textColor = new Color("#ffdb28")
-        deviceTxt.font = Font.boldRoundedSystemFont(38)
+        deviceTxt.font = Font.boldRoundedSystemFont(14)
         deviceTxt.centerAlignText()
         w.addSpacer(20)
 
