@@ -49,7 +49,7 @@ class Im3xWidget {
         deviceTxt.textColor = new Color("#ffdb28")
         deviceTxt.font = Font.boldRoundedSystemFont(14)
         deviceTxt.centerAlignText()
-        w.addSpacer(20)
+        w.addSpacer(10)
 
         return w
     }
